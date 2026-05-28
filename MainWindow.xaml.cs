@@ -10,7 +10,7 @@ using System.Windows.Controls;
 using System.Windows.Media;
 using System.Windows.Threading;
 
-namespace CyberSecurtyChatBotPart2
+namespace CyberSecurtyChatBotPart2 
 {
     public partial class MainWindow : Window
     {
